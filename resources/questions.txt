@@ -1,0 +1,70 @@
+What does WAN stand for?
+Wide Area Network
+World Area Network
+Wide Aim Network
+Wide Air Network
+Which one is not true about WAN?
+It doesn't allow communication across oceans
+It enables communication over long distances
+It exhibits a significant delay
+Consists of a mesh of point to point links
+Which one does not represent a mean of ethernet connection?
+USB
+Twisted pair
+Coaxial cable
+Fiber optics
+What is the maximum speed of an ethernet connection?
+10 GBit/s
+1 GBit/s
+10 GByte/s
+1 GByte/s
+What is not true about ethernet BUS topology?
+Computers communicate via multiple channels
+It is broadcast based
+Each computer discards transmissions destined to other computers
+It is susceptible to collisions
+Which one is unique in any computer?
+MAC address
+IPv4 address
+IPv6 address
+SubNet Mask
+How many bits are used in MAC addressing scheme?
+48 bits
+32 bits
+16 bits
+64 bits
+Which is the correct order of information in an ethernet frame?
+Preamble -> Dest. address -> Source address -> Data
+Preamble -> Data -> Dest. address -> Source address
+Preamble -> Source address -> Dest. address -> Data
+Preamble -> Dest. address -> Data -> Source address
+How many MBytes can fit into an ethernet frame?
+1.5 MBytes
+1500 MBytes
+150 MBytes
+15 MBytes
+What device is capable of forwarding network traffic among networks?
+Router
+Switch
+Hub
+Network card
+How many bits form an IPv4 address?
+32 bits
+64 bits
+16 bits
+255 bits
+How many addresses are available on a class A network?
+2 ^ 24 addresses
+2 ^ 16 addresses
+2 ^ 32 addresses
+2 ^ 64 addresses
+What is the broadcast address of the network: 148.22.40.120/16 ?
+148.22.255.255
+148.22.40.255
+148.22.0.0
+148.22.40.0
+Loopback addresses start with:
+127.
+192.
+172.
+255.
